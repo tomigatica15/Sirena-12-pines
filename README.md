@@ -1,5 +1,5 @@
 # Sirena 
-- si se quiere modificar la velocidad en la que la sirena cambia, modificar el valor de la linea 17.
+- Si se quiere modificar la velocidad en la que la sirena cambia, modificar el valor de la linea 17. (Archivo "sirena1.ino")
 
 # Requisitos
 - Una placa Arduino mega

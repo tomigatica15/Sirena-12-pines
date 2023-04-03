@@ -1,5 +1,4 @@
 # Sirena 
-- 
 
 # Requisitos
 - Una placa Arduino mega

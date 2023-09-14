@@ -11,3 +11,4 @@
 - Conecta los ánodos de los LEDs a los pines digitales 2 a 13 en el Arduino.
 
 <h1 align="center">Tomás Gatica</h1>
+<p>Mas robotica en mi perfil</p>
